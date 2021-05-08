@@ -1,0 +1,34 @@
+{
+  "name": "@littlewhiteloti/vue-cookies",
+  "version": "0.0.1",
+  "description": "Copy of the original vue-cookies from https://github.com/cmp-cc/vue-cookies but modified to work with Vuejs 3",
+  "main": "dist/vue-cookies.min.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleWhiteLoti/vue-cookies.git"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.10 | ^3.0.0"
+  },
+  "keywords": [
+    "vue-cookies",
+    "vue_cookies",
+    "vue-cookie",
+    "vue_cookie",
+    "cookies",
+    "vuejs-cookies",
+    "vuejs_cookies",
+    "vuejs-cookie",
+    "vuejs_cookie"
+  ],
+  "author": "LittleWhiteLoti <little.white.loti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LittleWhiteLoti/vue-cookies/issues"
+  },
+  "homepage": "https://github.com/LittleWhiteLoti/vue-cookies#readme"
+}
